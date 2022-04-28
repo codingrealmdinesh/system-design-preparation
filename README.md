@@ -1,6 +1,5 @@
 Books
 Designing Data-Intensive Applications (by Martin Kleppmann) \
-The site relaiability workbook - https://sre.google/books/  \
 Understanding Distributed Systems by Microsoft principal engineer Roberto Vitillo  \
 System Design interview by Alex Yu  \
 
